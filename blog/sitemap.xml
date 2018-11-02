@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/</loc>
-<lastmod>2018-11-02T15:18:07-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2018-11-02T15:22:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/archives.html</loc>
-<lastmod>2018-11-02T15:18:07-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2018-11-02T15:22:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/tags.html</loc>
-<lastmod>2018-11-02T15:18:07-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2018-11-02T15:22:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/categories.html</loc>
-<lastmod>2018-11-02T15:18:07-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2018-11-02T15:22:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/pages/about/</loc>
+<loc>./pages/about/</loc>
 <lastmod>2018-11-02T14:58:52+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/2018-Fall-Project-Blog.html</loc>
+<loc>./2018-Fall-Project-Blog.html</loc>
 <lastmod>2018-09-10T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/category/misc.html</loc>
+<loc>./category/misc.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/tag/2018fall.html</loc>
+<loc>./tag/2018fall.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecp2018.github.io/2018fall/blog/author/nfumde.html</loc>
+<loc>./author/nfumde.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
