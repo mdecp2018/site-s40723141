@@ -8,6 +8,9 @@ Title: About
 
 課程網誌: <a href="https://mdecourse.github.io/2018fall/blog">https://mdecourse.github.io/2018fall/blog</a>
 
+遠端網站: <a href="https://mdecp2018.github.io/site-s40723141/content/index.html">https://mdecp2018.github.io/site-s40723141/content/index.html</a>
+
+練習影片: <a href="https://www.youtube.com/watch?v=X2x5bkMIdtI">https://www.youtube.com/watch?v=X2x5bkMIdtI</a>
 
 
 
